@@ -23,10 +23,11 @@ p{
 #nav a:link{
 display:block;
 padding: 12px;
-list-style-type: none;
-text-decoration:none;
 text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
 color: white;
 background-color: color:#2e282a;
+}
+#nav li{
+  list-style-type: none;
 }
