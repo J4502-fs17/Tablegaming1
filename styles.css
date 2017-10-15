@@ -7,6 +7,9 @@ h1{
   font-family: 'Roboto',helvetica,sans-serif;
   color:#2e282a;
 }
+body{
+  background-color: #02c3bd;
+}
 h2{
   font-family: 'Lato',helvetica,sans-serif;
   color:#2e282a;
