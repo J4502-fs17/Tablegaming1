@@ -7,9 +7,6 @@ h1{
   font-family: 'Roboto',helvetica,sans-serif;
   color:#2e282a;
 }
-body{
-  background-color: #02c3bd;
-}
 h2{
   font-family: 'Lato',helvetica,sans-serif;
   color:#2e282a;
@@ -24,19 +21,13 @@ p{
 }
 #nav a:link{
 display:block;
-color: #2e282a;
-background-color:#ffc914;
+color: white;
+background-color:#2e282a;
+>>>>>>> Stashed changes
 text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
 padding: 12px;
 }
 #nav li{
   list-style-type: none;
-}
-#contact{
-  display:block;
-  color: white;
-  background-color: #2e282a;
-  text-align: center;
-  font-family: 'Lato',helvetica,sans-serif;
 }
