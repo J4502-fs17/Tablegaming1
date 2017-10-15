@@ -21,6 +21,7 @@ p{
 }
 
 #nav a:link{
+display:block;
 padding: 12px;
 text-decoration:none;
 text-align: center;
