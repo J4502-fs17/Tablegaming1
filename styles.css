@@ -19,15 +19,13 @@ p{
   width:90%;
   margin:auto;
 }
-#nav{
-  background-color: color:#2e282a;
-}
 #nav a:link{
 display:block;
-padding: 12px;
+color: white;
+background-color: color:#2e282a;
 text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
-color: white;
+padding: 12px;
 }
 #nav li{
   list-style-type: none;
