@@ -20,7 +20,7 @@ p{
   margin:auto;
 }
 
-#nav{
+#nav a:link{
 padding: 12px;
 text-decoration:none;
 text-align: center;
