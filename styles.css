@@ -19,7 +19,9 @@ p{
   width:90%;
   margin:auto;
 }
-
+#nav{
+  background-color: color:#2e282a;
+}
 #nav a:link{
 display:block;
 padding: 12px;
@@ -29,5 +31,4 @@ color: white;
 }
 #nav li{
   list-style-type: none;
-  background-color: color:#2e282a;
 }
