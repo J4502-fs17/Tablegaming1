@@ -26,8 +26,8 @@ padding: 12px;
 text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
 color: white;
-background-color: color:#2e282a;
 }
 #nav li{
   list-style-type: none;
+  background-color: color:#2e282a;
 }
