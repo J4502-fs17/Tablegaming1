@@ -1,1 +1,25 @@
+h1{
+  font-family: 'Roboto',helvetica,sans-serif;
+  color:#2e282a;
+}
+h2{
+  font-family: 'Lato',helvetica,sans-serif;
+  color:#2e282a;
+}
+p{
+  font-family: 'Cabin', sans-serif;
+  color:#2e282a;
+}
+#container{
+  width:90%;
+  margin:auto;
+}
 
+#nav{
+padding: 12px;
+text-decoration:none;
+text-align: center;
+font-family: 'Roboto',helvetica,sans-serif;
+color: white;
+background-color: color:#2e282a;
+}
