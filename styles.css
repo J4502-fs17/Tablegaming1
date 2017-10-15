@@ -33,3 +33,11 @@ padding: 12px;
 #nav li{
   list-style-type: none;
 }
+#contact{
+  display:block;
+  color: white;
+  background-color: #2e282a;
+  text-align: center;
+  font-family: 'Lato',helvetica,sans-serif;
+
+}
