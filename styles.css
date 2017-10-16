@@ -1,6 +1,6 @@
 img {
   border: none;
-  width: 30%;
+  width: 100%;
 }
 
 h1{
@@ -30,4 +30,10 @@ padding: 12px;
 }
 #nav li{
   list-style-type: none;
+}
+#social{
+  img {
+    border: none;
+    width: 20%;
+  }
 }
