@@ -72,6 +72,7 @@ background-color: color:#2e282a;
 }
 
 #social img{
+  align-content: center;
   border: none;
   width: 10%;
 }
