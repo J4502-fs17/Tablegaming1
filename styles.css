@@ -31,9 +31,3 @@ padding: 12px;
 #nav li{
   list-style-type: none;
 }
-#social{
-  img {
-    border: none;
-    width: 20%;
-  }
-}
