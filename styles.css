@@ -6,6 +6,9 @@ h2{
   font-family: 'Lato',helvetica,sans-serif;
   color:#2e282a;
 }
+body{
+  background-color: #02c3bd;
+}
 p{
   font-family: 'Cabin', sans-serif;
   color:#2e282a;
