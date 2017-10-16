@@ -76,6 +76,10 @@ background-color: color:#2e282a;
   width: 10%;
 }
 
+#social {
+  align-content: center;
+}
+
 #contact h1 {
   color: white;
 }
