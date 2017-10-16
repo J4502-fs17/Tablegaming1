@@ -83,8 +83,12 @@ background-color: color:#2e282a;
   align-content: center;
 }
 
-#logo {
+#logo img {
   width: 50%;
+}
+
+#logo {
+  text-align: center;
 }
 
 #contact h1 {
