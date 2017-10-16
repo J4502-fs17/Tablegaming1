@@ -47,6 +47,7 @@ padding: 12px;
 #nav li{
   list-style-type: none;
 }
+
 #nav {
 padding: 12px;
 text-decoration:none;
@@ -74,8 +75,4 @@ background-color: color:#2e282a;
 #social img{
   border: none;
   width: 10%;
-}
-
-#contact h1 {
-  color: white;
 }
