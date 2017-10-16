@@ -34,6 +34,7 @@ p{
   width:90%;
   margin:auto;
 }
+
 #nav a:link{
 display:block;
 color: white;
@@ -42,6 +43,7 @@ text-align:center;
 font-family:'Roboto',helvetica,sans-serif;
 padding: 12px;
 }
+
 #nav li{
   list-style-type: none;
 #nav {
@@ -51,8 +53,8 @@ text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
 color: white;
 background-color: color:#2e282a;
-
 }
+
 #contact{
   display:block;
   color: white;
