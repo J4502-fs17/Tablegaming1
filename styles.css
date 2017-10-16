@@ -1,8 +1,3 @@
-img {
-  border: none;
-  width: 100%;
-}
-
 h1{
   font-family: 'Roboto',helvetica,sans-serif;
   color:#2e282a;
@@ -19,6 +14,7 @@ p{
   width:90%;
   margin:auto;
 }
+<<<<<<< Updated upstream
 #nav a:link{
 display:block;
 color: white;
@@ -29,6 +25,16 @@ padding: 12px;
 }
 #nav li{
   list-style-type: none;
+=======
+
+#nav {
+padding: 12px;
+text-decoration:none;
+text-align: center;
+font-family: 'Roboto',helvetica,sans-serif;
+color: white;
+background-color: color:#2e282a;
+>>>>>>> Stashed changes
 }
 #contact{
   display:block;
