@@ -23,9 +23,8 @@ p{
 display:block;
 color: white;
 background-color:#ffc914;
->>>>>>> Stashed changes
-text-align: center;
-font-family: 'Roboto',helvetica,sans-serif;
+text-align:center;
+font-family:'Roboto',helvetica,sans-serif;
 padding: 12px;
 }
 #nav li{
