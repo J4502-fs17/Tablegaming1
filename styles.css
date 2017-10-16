@@ -44,3 +44,8 @@ background-color: color:#2e282a;
   font-family: 'Roboto',helvetica,sans-serif;
   padding: 8px;
 }
+
+#nav img {
+  border: none;
+  width: 30%;
+}
