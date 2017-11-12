@@ -112,11 +112,11 @@ background-color: color:#2e282a;
 
 @media screen and (min-width: 700px){
 
-    nav ul {
+    #nav {
         display: flex;
     }
 
     .menu-trigger {
         display: none;
     }
- }  
+ }
