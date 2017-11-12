@@ -119,10 +119,6 @@ background-color: color:#2e282a;
         justify-content: space-between;
     }
 
-    #nav {
-      display: block;
-    }
-
     .menu-trigger {
         display: none;
     }
