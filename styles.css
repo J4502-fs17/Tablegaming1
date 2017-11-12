@@ -122,4 +122,10 @@ background-color: color:#2e282a;
     .menu-trigger {
         display: none;
     }
+
+    #logo {
+      flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 500px;
+    }
  }
