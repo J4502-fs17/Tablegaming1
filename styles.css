@@ -116,7 +116,7 @@ background-color: color:#2e282a;
     #nav {
         display: flex;
         flex-direction: row;
-        align-self: stretch;
+        align-items: stretch;
     }
 
     .menu-trigger {
