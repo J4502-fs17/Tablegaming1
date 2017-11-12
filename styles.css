@@ -117,7 +117,7 @@ background-color: color:#2e282a;
         display: flex;
         flex-direction: row;
         justify-content: center;
-        align-items: stretch;
+        align-self: stretch;
     }
 
     .menu-trigger {
