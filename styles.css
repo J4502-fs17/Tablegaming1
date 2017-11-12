@@ -114,6 +114,7 @@ background-color: color:#2e282a;
 
     #nav {
         display: flex;
+        flex-direction: row;
     }
 
     .menu-trigger {
