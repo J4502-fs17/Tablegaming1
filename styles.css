@@ -18,6 +18,23 @@ p{
   font-family: 'Cabin', sans-serif;
   color:#2e282a;
 }
+
+form{
+  font-family:'Roboto',helvetica,sans-serif;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover
+{
+     color:#000000; 
+     text-decoration:none;
+     cursor:pointer;
+}
+
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
