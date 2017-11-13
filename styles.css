@@ -139,6 +139,11 @@ background-color: color:#2e282a;
       padding: 1px;
     }
 
+    #social img {
+      padding-left: 1px;
+      padding-right: 1px;
+    }
+
     .menu-trigger {
         display: none;
     }
