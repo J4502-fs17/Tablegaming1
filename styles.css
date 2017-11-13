@@ -161,8 +161,6 @@ background-color: color:#2e282a;
     #social {
       display: flex;
       justify-content: flex-end;
-      align-items: flex-end;
-      align-self: flex-end;
       padding: 1px;
     }
 
@@ -173,7 +171,7 @@ background-color: color:#2e282a;
     }
 
     .search {
-      margin-left: auto;
+      margin-right: auto;
     }
 
     .menu-trigger {
