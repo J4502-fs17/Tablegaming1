@@ -104,8 +104,6 @@ background-color: color:#2e282a;
   padding-right: 3px;
   padding-left: 3px;
 }
-<<<<<<< HEAD
-=======
 
 #social {
   text-align: center;
@@ -175,7 +173,6 @@ background-color: color:#2e282a;
     .menu-trigger {
         display: none;
     }
-<<<<<<< HEAD
 
       text {
     display: grid;
@@ -234,6 +231,61 @@ background-color: color:#2e282a;
 
     }
 
+    @media screen and (min-width: 800px) {
+    	#container {
+    		flex-direction: row;
+    		justify-content: space-between;
+    	}
+    }
+
+    @media screen and (min-width:600px) {
+      article {
+        display: grid;
+        grid-template: column 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-areas:
+            "a"
+            "b"
+            "c";
+      }
+    }
+
+    .section1 {
+      grid-area: a;
+    }
+
+    .section2 {
+      grid-area: b;
+    }
+
+    .section3 {
+      grid-area: c;
+    }
+
+
+
+    @media screen and (min-width:900px) {
+      article {
+        display: grid;
+        grid-template: columns 1fr 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-areas:
+            "a b c";
+
+      }
+    }
+
+    .section1 {
+      grid-area: a;
+    }
+
+    .section2 {
+      grid-area: b;
+    }
+
+    .section3 {
+      grid-area: c;
+    }
 
 
 }
