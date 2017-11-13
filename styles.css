@@ -164,6 +164,10 @@ background-color: color:#2e282a;
     }
 
     #social {
+      text-align: right;
+    }
+
+    #social {
       display: flex;
       padding: 1px;
       margin-right: auto;
