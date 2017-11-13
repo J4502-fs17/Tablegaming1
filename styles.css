@@ -98,8 +98,7 @@ background-color: color:#2e282a;
 
 #logo {
   display: flex;
-  align-items: center;
-  align-content: center;
+  justify-content: center;
 }
 
 #logo {
@@ -134,11 +133,6 @@ background-color: color:#2e282a;
 
     .menu-trigger {
         display: none;
-    }
-
-    #logo {
-      align-content: center;
-      align-items: center;
     }
 
  }
