@@ -165,15 +165,6 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
-    #social {
-      diplay: flex;
-      justify-content: right;
-    }
-
-    #social img {
-      padding-left: none;
-      padding-right: none;
-    }
 
 
 
