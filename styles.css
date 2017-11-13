@@ -140,8 +140,8 @@ background-color: color:#2e282a;
     }
 
     #social img {
-      padding-left: 1px;
-      padding-right: 1px;
+      padding-left: none;
+      padding-right: none;
     }
 
     .menu-trigger {
