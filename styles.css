@@ -34,7 +34,6 @@ a:visited {
 }
 
 #nav a:hover, a:active {
-  background-color: #FFAF3A;
   text-decoration: underline;
 }
 
