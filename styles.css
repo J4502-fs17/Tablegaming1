@@ -113,6 +113,9 @@ background-color: color:#2e282a;
   color: white;
 }
 
+#logo2 {
+  display: none;
+}
 
 .menu-trigger {
   display:block;
@@ -150,6 +153,7 @@ background-color: color:#2e282a;
     .menu-trigger {
         display: none;
     }
+<<<<<<< HEAD
 
     .text {
     margin: 0;
@@ -163,4 +167,13 @@ background-color: color:#2e282a;
     grid-row-gap: 25px; */
 }
 
+=======
+    #logo {
+      display: none;
+    }
+    #logo2 {
+      display: flex;
+      justify-content: center;
+    }
+>>>>>>> origin/master
  }
