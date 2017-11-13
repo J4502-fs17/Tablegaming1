@@ -202,6 +202,6 @@ background-color: color:#2e282a;
     }
 
     #social {
-      display: block;
+      display: flex;
       text-align: right;
     }
