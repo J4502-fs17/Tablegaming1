@@ -125,6 +125,5 @@ background-color: color:#2e282a;
 
     #logo {
       display: flex;
-      flex-shrink: 1;
     }
  }
