@@ -35,6 +35,11 @@ a:hover
      cursor:pointer;
 }
 
+#nav a:hover, #nav a:active {
+  background-color: #FFAF3A;
+  text-decoration: underline;
+}
+
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
