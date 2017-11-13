@@ -131,10 +131,6 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
-    #logo img {
-      width: 75%;
-    }
-
     .menu-trigger {
         display: none;
     }
