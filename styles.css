@@ -92,6 +92,7 @@ background-color: color:#2e282a;
 
 #logo {
   display: flex;
+  align-items: center;
 }
 
 #logo {
