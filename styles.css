@@ -167,7 +167,10 @@ background-color: color:#2e282a;
     grid-row-gap: 25px; */
 }
 
-=======
+    #logo {
+      display: none;
+    }
+
     #logo img {
       display: none;
     }
