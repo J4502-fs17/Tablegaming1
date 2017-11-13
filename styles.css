@@ -122,6 +122,10 @@ background-color: color:#2e282a;
   align-items: center;
 }
 
+#social ul {
+  list-style-type: none;
+}
+
 #logo img {
   width: 50%;
 }
