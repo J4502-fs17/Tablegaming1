@@ -108,14 +108,12 @@ background-color: color:#2e282a;
 <<<<<<< HEAD
 =======
 
-#social {
-  text-align: center;
-}
 
 #social {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 }
 
 #logo img {
