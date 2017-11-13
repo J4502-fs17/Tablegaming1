@@ -166,9 +166,6 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
-    #social {
-      text-align: right;
-    }
 
     .search {
 		margin-right: auto;
@@ -178,7 +175,6 @@ background-color: color:#2e282a;
 	     padding: 10px;
   	   border-radius: 5px;
 	     margin: 45px auto;
-  	   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
     }
 
     #social img {
@@ -187,16 +183,7 @@ background-color: color:#2e282a;
       	border-radius: 3px;
     }
 
-    #social {
-      display: flex;
-      padding: 1px;
-      margin-right: auto;
-      justify-content: flex-end;
-    }
-
     #social img {
-      padding-left: none;
-      padding-right: none;
       width: 25%;
     }
 
