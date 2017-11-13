@@ -132,8 +132,7 @@ background-color: color:#2e282a;
     }
 
     #logo img {
-      display: flex;
-      flex-grow: 2;
+      width: 75%;
     }
 
     .menu-trigger {
