@@ -111,6 +111,9 @@ background-color: color:#2e282a;
   color: white;
 }
 
+#logo2 {
+  display: none;
+}
 
 .menu-trigger {
   display:block;
@@ -146,6 +149,9 @@ background-color: color:#2e282a;
 
     .menu-trigger {
         display: none;
+    }
+    #logo {
+      display: none;
     }
 
  }
