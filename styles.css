@@ -234,7 +234,7 @@ background-color: color:#2e282a;
 
     #social {
       display: flex;
-      text-align: right;
+      justify-content: center;
       padding-right: 0;
     }
 
