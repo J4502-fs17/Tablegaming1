@@ -191,12 +191,6 @@ background-color: color:#2e282a;
 
 @media screen and (min-width: 700px){
 
-    #container {
-      width: 75%;
-      background-color: white;
-      opacity: 50%;
-    }
-
     #nav {
         display: flex;
         flex-direction: row;
