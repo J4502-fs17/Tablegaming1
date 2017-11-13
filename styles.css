@@ -144,6 +144,7 @@ background-color: color:#2e282a;
     #social img {
       padding-left: none;
       padding-right: none;
+      width: 25%;
     }
 
     .menu-trigger {
