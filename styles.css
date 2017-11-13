@@ -30,7 +30,7 @@ a {
 
 a:hover
 {
-     color:#000000; 
+     color:#000000;
      text-decoration:none;
      cursor:pointer;
 }
@@ -160,6 +160,7 @@ background-color: color:#2e282a;
 
     #social {
       display: flex;
+      justify-content: flex-end;
       align-items: flex-end;
       align-self: flex-end;
       padding: 1px;
@@ -172,8 +173,8 @@ background-color: color:#2e282a;
     }
 
     .search {
-		margin-right: auto;
-	}
+      margin-right: auto;
+    }
 
     .menu-trigger {
         display: none;
@@ -200,7 +201,5 @@ background-color: color:#2e282a;
       display: flex;
       justify-content: center;
     }
-
-
 >>>>>>> origin/master
  }
