@@ -14,6 +14,15 @@ h2{
 body{
   background-color: #02c3bd;
 }
+
+    body{
+      background-image: url("images/background.png");
+      background-repeat: repeat-x;
+      background-size: 1920px 4812px;
+      margin: 0;}
+    header{
+        background-color: transparent;
+      }
 p{
   font-family: 'Cabin', sans-serif;
   color:#2e282a;
@@ -24,6 +33,7 @@ form{
   text-decoration: none;
 
 }
+
 
 input[type=text] {
     width: 100%;
