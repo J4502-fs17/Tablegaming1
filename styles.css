@@ -86,6 +86,10 @@ background-color: color:#2e282a;
   text-align: center;
 }
 
+#social {
+  display: flex;
+}
+
 #logo img {
   width: 50%;
 }
@@ -102,6 +106,10 @@ background-color: color:#2e282a;
 
 #contact h1 {
   color: white;
+}
+
+#contact {
+  display: flex;
 }
 
 .menu-trigger {
