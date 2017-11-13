@@ -229,20 +229,20 @@ background-color: color:#2e282a;
     }
 
     #spielessen img {
-      width: 70%;
+      width: 100%;
       border: none;
       padding-right: 3px;
       padding-left: 3px;
     }
 
     #originsgamefair img {
-      width: 70%;
+      width: 100%;
       border: none;
       padding-right: 3px;
       padding-left: 3px;
     }
     #genconlogo img {
-      width: 40%;
+      width: 60%;
       border: none;
       padding-right: 3px;
       padding-left: 3px;
@@ -256,7 +256,7 @@ background-color: color:#2e282a;
     	}
     }
 
-    @media screen and (min-width:600px) {
+    /*@media screen and (min-width:600px) {
       article {
         display: grid;
         grid-template: column 1fr 1fr;
@@ -266,9 +266,9 @@ background-color: color:#2e282a;
             "b"
             "c";
       }
-    }
+    }*/
 
-    .section1 {
+  /*  .section1 {
       grid-area: a;
     }
 
@@ -278,7 +278,7 @@ background-color: color:#2e282a;
 
     .section3 {
       grid-area: c;
-    }
+    }*/
 
 
 
@@ -288,22 +288,44 @@ background-color: color:#2e282a;
         grid-template: columns 1fr 1fr 1fr;
         grid-gap: 20px;
         grid-template-areas:
-            "a b c";
+            "a d g"
+            "b e h"
+            "c f i";
+    }
 
+      .section1 {
+        grid-area: a;
       }
+      .section2 {
+        grid-area: b;
+      }
+      .section3 {
+        grid-area: c;
+      }
+      .section4 {
+        grid-area: d;
+      }
+      .section5 {
+        grid-area: e;
+      }
+      .section6 {
+        grid-area: f;
+      }
+      .section7 {
+        grid-area: g;
+      }
+      .section8 {
+        grid-area: h;
+      }
+      .section9 {
+        grid-area: i;
+      }
+
+
     }
 
-    .section1 {
-      grid-area: a;
-    }
 
-    .section2 {
-      grid-area: b;
-    }
 
-    .section3 {
-      grid-area: c;
-    }
 
 
 }
