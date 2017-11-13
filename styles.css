@@ -201,4 +201,7 @@ background-color: color:#2e282a;
       justify-content: center;
     }
 
-  
+    #social {
+      display: block;
+      text-align: right;
+    }
