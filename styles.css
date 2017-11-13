@@ -168,10 +168,10 @@ background-color: color:#2e282a;
 }
 
 =======
-    #logo {
+    #logo img {
       display: none;
     }
-    #logo2 {
+    #logo2 img {
       display: flex;
       justify-content: center;
     }
