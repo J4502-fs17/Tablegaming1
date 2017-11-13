@@ -235,7 +235,6 @@ background-color: color:#2e282a;
     #social {
       display: flex;
       justify-content: space-between;
-      padding-right: 0;
     }
 
     #spielessen img {
