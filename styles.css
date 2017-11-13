@@ -136,6 +136,7 @@ background-color: color:#2e282a;
     #social {
       display: flex;
       justify-content: flex-end;
+      padding: 1px;
     }
 
     .menu-trigger {
