@@ -166,6 +166,9 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
+    #social {
+      text-align: right;
+    }
 
     .menu-trigger {
         display: none;
