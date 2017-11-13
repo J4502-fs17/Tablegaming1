@@ -35,7 +35,7 @@ a:hover
      cursor:pointer;
 }
 
-#nav a:hover, #nav a:active {
+#nav a:hover {
   background-color: #FFAF3A;
   text-decoration: underline;
 }
