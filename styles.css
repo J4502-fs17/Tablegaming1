@@ -157,18 +157,15 @@ background-color: color:#2e282a;
         display: none;
     }
 <<<<<<< HEAD
-
     .text {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px;
-    gap: 20px;
-    /*grid-column-gap: 10px;
-    grid-row-gap: 25px; */
-}
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 20px;
+      gap: 20px;
+      }
 
     #logo {
       display: none;
