@@ -150,6 +150,10 @@ background-color: color:#2e282a;
   width: 75%;
 }
 
+#logo2 {
+  text-align: center;
+}
+
 .menu-trigger {
   display:block;
   color: white;
