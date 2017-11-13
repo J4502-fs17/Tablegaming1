@@ -30,7 +30,7 @@ a {
 
 a:hover
 {
-     color:#000000; 
+     color:#000000;
      text-decoration:none;
      cursor:pointer;
 }
@@ -160,6 +160,7 @@ background-color: color:#2e282a;
 
     #social {
       display: flex;
+      justify-content: flex-end;
       align-items: flex-end;
       align-self: flex-end;
       padding: 1px;
@@ -169,6 +170,10 @@ background-color: color:#2e282a;
       padding-left: none;
       padding-right: none;
       width: 25%;
+    }
+
+    .search {
+      margin-right: auto;
     }
 
     .menu-trigger {
