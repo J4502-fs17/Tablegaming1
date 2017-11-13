@@ -167,30 +167,6 @@ background-color: color:#2e282a;
     }
 
 
-    .search {
-		margin-right: auto;
-	}
-
-    #social {
-	     padding: 10px;
-  	   border-radius: 5px;
-	     margin: 45px auto;
-    }
-
-    #social img {
-      	padding: 15px;
-      	margin: 5px;
-      	border-radius: 3px;
-    }
-
-    #social img {
-      width: 25%;
-    }
-
-    .search {
-      margin-right: auto;
-    }
-
     .menu-trigger {
         display: none;
     }
