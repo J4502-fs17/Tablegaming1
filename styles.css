@@ -166,6 +166,7 @@ background-color: color:#2e282a;
     #social {
       display: flex;
       padding: 1px;
+      margin-right: auto;
     }
 
     #social img {
