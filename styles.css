@@ -131,7 +131,7 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
-    #logo {
+    #logo img {
       display: flex;
       flex-grow: 2;
     }
