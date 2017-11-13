@@ -116,6 +116,9 @@ background-color: color:#2e282a;
 #logo2 {
   display: none;
 }
+#logo2 img {
+  width: 75%;
+}
 
 .menu-trigger {
   display:block;
