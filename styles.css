@@ -171,6 +171,7 @@ background-color: color:#2e282a;
       display: flex;
       padding: 1px;
       margin-right: auto;
+      justify-content: flex-end;
     }
 
     #social img {
