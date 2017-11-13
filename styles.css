@@ -205,12 +205,6 @@ background-color: color:#2e282a;
     	box-sizing: border-box;
     }
 
-    #social {
-    	padding: 10px;
-      	border-radius: 5px;
-    	margin: 45px auto;
-    }
-
     .search {
       margin-right: auto;
     }
