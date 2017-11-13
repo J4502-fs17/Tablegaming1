@@ -44,6 +44,8 @@ font-family:'Roboto',helvetica,sans-serif;
 padding: 12px;
 }
 
+
+
 #nav li{
   list-style-type: none;
 }
@@ -129,6 +131,11 @@ background-color: color:#2e282a;
         display: flex;
         flex-direction: row;
         justify-content: center;
+    }
+
+    #social {
+      display: flex;
+      justify-content: flex-end;
     }
 
     .menu-trigger {
