@@ -171,10 +171,6 @@ background-color: color:#2e282a;
       width: 25%;
     }
 
-    .search {
-		margin-right: auto;
-	}
-
     .menu-trigger {
         display: none;
     }
@@ -200,7 +196,5 @@ background-color: color:#2e282a;
       display: flex;
       justify-content: center;
     }
-
-
 >>>>>>> origin/master
  }
