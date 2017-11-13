@@ -167,6 +167,7 @@ background-color: color:#2e282a;
     }
 
     #social {
+      diplay: flex;
       justify-content: right;
     }
 
