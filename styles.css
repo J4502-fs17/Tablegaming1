@@ -129,13 +129,8 @@ background-color: color:#2e282a;
 #social img{
   width: 25%;
   border: none;
-  padding-right: 3px;
-  padding-left: 3px;
 }
 
-#social {
-  text-align: center;
-}
 
 #social {
   display: flex;
@@ -234,8 +229,7 @@ background-color: color:#2e282a;
 
     #social {
       display: flex;
-      justify-content: center;
-      padding-right: 0;
+      justify-content: space-between;
     }
 
     #spielessen img {
