@@ -177,15 +177,24 @@ background-color: color:#2e282a;
         display: none;
     }
 <<<<<<< HEAD
-    .text {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-gap: 20px;
-      gap: 20px;
-      }
+
+      text {
+    display: grid;
+    grid-template-columns: 200px 1fr 1fr;
+    grid-gap: 20px;
+    grid-template-areas:
+        "b b b";
+  }
+  .text {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    gap: 20px;
+    grid-area: b;
+    }
 
     #logo {
       display: none;
