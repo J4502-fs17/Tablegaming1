@@ -299,8 +299,8 @@ background-color: color:#2e282a;
         grid-gap: 20px;
         grid-template-areas:
             "a d g"
-            "b e h"
-            "c f i";
+            "c f i"
+            "b e h";
     }
 
       .section1 {
