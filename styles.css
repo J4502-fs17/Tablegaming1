@@ -201,10 +201,4 @@ background-color: color:#2e282a;
       justify-content: center;
     }
 
-    * {
-    	box-sizing: border-box;
-    }
-
-    .search {
-      margin-right: auto;
-    }
+  
