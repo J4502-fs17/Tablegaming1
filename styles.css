@@ -174,6 +174,10 @@ background-color: color:#2e282a;
   text-align: center;
 }
 
+#expansions {
+  font-size: 36px;
+}
+
 .menu-trigger {
   display:block;
   color: white;
