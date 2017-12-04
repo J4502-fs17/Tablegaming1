@@ -1,6 +1,6 @@
 img {
   border: none;
-  width: 100%;
+  width: 90%;
 }
 
 h1{
@@ -12,6 +12,12 @@ h2{
   font-family: 'Lato',helvetica,sans-serif;
   font-size: 28px;
   color:#2e282a;
+}
+h4{
+  font-family: 'Roboto',helvetica,sans-serif;
+  font-size: 28px;
+  color:#2e282a;
+  text-align: center;
 }
 body{
   background-color: #02c3bd;
@@ -196,7 +202,7 @@ background-color: color:#2e282a;
     #nav {
         display: inline-flex;
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: stretch;
     }
 
     #container {
