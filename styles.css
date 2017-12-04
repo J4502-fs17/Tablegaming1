@@ -209,7 +209,7 @@ background-color: #2e282a;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: 2px;
+        padding: 6px;
         margin: 8px;
     }
 
