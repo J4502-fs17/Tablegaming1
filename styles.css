@@ -195,6 +195,10 @@ background-color: #2e282a;
   font-size: 36px;
 }
 
+#feudum img {
+  text-align: center;
+}
+
 .menu-trigger {
   display:block;
   color: white;
@@ -215,7 +219,9 @@ background-color: #2e282a;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: none;
+        padding: 0;
+        margin: 10px;
+        text-align: left;
     }
 
     #container {
