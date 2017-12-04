@@ -196,7 +196,6 @@ background-color: color:#2e282a;
 
     #nav ul {
       display: inline-flex;
-      justify-content: space-around;
     }
 
     #container {
