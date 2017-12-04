@@ -203,13 +203,21 @@ background-color: #2e282a;
     #nav {
         display: inline-flex;
         flex-direction: row;
+<<<<<<< HEAD
+        justify-content: space-between;
+        padding: none;
+=======
         justify-content: stretch;
     }
 
     #nav a:link {
       display: inline-flex;
       justify-content: stretch;
+<<<<<<< HEAD
       text-align:justify;
+=======
+>>>>>>> 919d0d0181bf275bfe7ad760b72c05be6a6067f7
+>>>>>>> origin/master
     }
 
     #container {
@@ -320,7 +328,10 @@ background-color: #2e282a;
             "c f i"
             "b e h";
     }
+    p {
+      max-width: 860px;
 
+    }
       .section1 {
         grid-area: a;
       }
