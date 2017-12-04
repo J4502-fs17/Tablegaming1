@@ -190,13 +190,9 @@ background-color: color:#2e282a;
 @media screen and (min-width: 700px){
 
     #nav {
-        display: flex;
+        display: inline-flex;
         flex-direction: row;
-    }
-
-    #nav ul {
-      display: inline-flex;
-      justify-content: space-between;
+        justify-content: space-between;
     }
 
     #container {
