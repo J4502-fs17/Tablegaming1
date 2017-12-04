@@ -5,12 +5,12 @@ img {
 
 h1{
   font-family: 'Roboto',helvetica,sans-serif;
-  font-size: 20px;
+  font-size: 28px;
   color:#2e282a;
 }
 h2{
   font-family: 'Lato',helvetica,sans-serif;
-  font-size: 20px;
+  font-size: 28px;
   color:#2e282a;
 }
 body{
@@ -27,7 +27,7 @@ body{
       }
 p{
   font-family: 'Cabin', sans-serif;
-  font-size:16px;
+  font-size:20px;
   color:#2e282a;
 }
 
