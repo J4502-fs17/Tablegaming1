@@ -192,8 +192,7 @@ background-color: color:#2e282a;
     #nav {
         display: inline-flex;
         flex-direction: row;
-        justify-content: space-between;
-        padding: none; 
+        justify-content: stretch;
     }
 
     #container {
