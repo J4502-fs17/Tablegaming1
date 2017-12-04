@@ -190,7 +190,6 @@ background-color: color:#2e282a;
         display: flex;
         flex-direction: row;
         justify-content: center;
-        width: 100%;
     }
 
     #container {
