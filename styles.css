@@ -13,6 +13,12 @@ h2{
   font-size: 28px;
   color:#2e282a;
 }
+h4{
+  font-family: 'Roboto',helvetica,sans-serif;
+  font-size: 28px;
+  color:#2e282a;
+  text-align: center;
+}
 body{
   background-color: #02c3bd;
 }
@@ -127,6 +133,7 @@ background-color: color:#2e282a;
   padding: 12px;
   text-decoration:none;
   text-align: center;
+  max-width: 100%;
 }
 
 #social img{
@@ -174,6 +181,10 @@ background-color: color:#2e282a;
   text-align: center;
 }
 
+#Expansions {
+  font-size: 36px;
+}
+
 .menu-trigger {
   display:block;
   color: white;
@@ -192,8 +203,17 @@ background-color: color:#2e282a;
     #nav {
         display: inline-flex;
         flex-direction: row;
+<<<<<<< HEAD
         justify-content: space-between;
         padding: none;
+=======
+        justify-content: stretch;
+    }
+
+    #nav a:link {
+      display: inline-flex;
+      justify-content: stretch;
+>>>>>>> 919d0d0181bf275bfe7ad760b72c05be6a6067f7
     }
 
     #container {
