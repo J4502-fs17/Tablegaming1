@@ -117,7 +117,7 @@ text-decoration:none;
 text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
 color: white;
-background-color: color:#2e282a;
+background-color: #2e282a;
 }
 
 #contact{
@@ -133,6 +133,7 @@ background-color: color:#2e282a;
   padding: 12px;
   text-decoration:none;
   text-align: center;
+  max-width: 100%;
 }
 
 #social img{
@@ -200,26 +201,11 @@ background-color: color:#2e282a;
 @media screen and (min-width: 700px){
 
     #nav {
-        display: inline-flex;
+        background-color:#ffc914;
+        display: flex;
         flex-direction: row;
-<<<<<<< HEAD
         justify-content: space-between;
         padding: none;
-=======
-        justify-content: stretch;
-    }
-
-    #nav a:link {
-      display: inline-flex;
-      justify-content: stretch;
-<<<<<<< HEAD
-<<<<<<< HEAD
-      text-align:justify;
-=======
->>>>>>> 919d0d0181bf275bfe7ad760b72c05be6a6067f7
->>>>>>> origin/master
-=======
->>>>>>> parent of 5f32a17... messing with nav
     }
 
     #container {
