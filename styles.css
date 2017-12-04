@@ -117,7 +117,7 @@ text-decoration:none;
 text-align: center;
 font-family: 'Roboto',helvetica,sans-serif;
 color: white;
-background-color: color:#2e282a;
+background-color: #2e282a;
 }
 
 #contact{
@@ -209,6 +209,7 @@ background-color: color:#2e282a;
     #nav a:link {
       display: inline-flex;
       justify-content: stretch;
+      text-align:justify;
     }
 
     #container {
