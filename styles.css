@@ -15,7 +15,7 @@ h2{
 }
 h4{
   font-family: 'Roboto',helvetica,sans-serif;
-  font-size: 36px;
+  font-size: 40px;
   color:#2e282a;
   text-align: left;
   
@@ -67,7 +67,7 @@ a {
     text-decoration: none;
 }
 
-hr {
+/*hr {
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -75,7 +75,9 @@ hr {
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
-}
+    align: left;
+    width: 90%;
+}*/
 
 a:visited {
   color: white;
@@ -194,7 +196,7 @@ background-color: #2e282a;
 }
 
 #Expansions {
-  font-size: 36px;
+  font-size: 40px;
 }
 
 #feudum img {
