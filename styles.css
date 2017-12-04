@@ -205,7 +205,8 @@ background-color: #2e282a;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: none;
+        padding: 2px;
+        margin: none;
     }
 
     #container {
