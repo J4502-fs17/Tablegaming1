@@ -211,6 +211,7 @@ background-color: #2e282a;
         justify-content: space-between;
         padding: 0;
         margin: 10px;
+        text-align: left;
     }
 
     #container {
