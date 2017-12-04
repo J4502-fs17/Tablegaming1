@@ -192,6 +192,10 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
+    #container {
+      width: 75%;
+      margin: auto;
+    }
 
     .menu-trigger {
         display: none;
