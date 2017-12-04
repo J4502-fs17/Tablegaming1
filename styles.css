@@ -206,6 +206,11 @@ background-color: color:#2e282a;
         justify-content: stretch;
     }
 
+    #nav a:link {
+      display: inline-flex;
+      justify-content: stretch;
+    }
+
     #container {
       width: 70%;
       margin: auto;
