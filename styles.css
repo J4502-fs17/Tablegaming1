@@ -193,7 +193,7 @@ background-color: color:#2e282a;
         display: inline-flex;
         flex-direction: row;
         justify-content: space-between;
-        padding: none; 
+        padding: none;
     }
 
     #container {
@@ -304,7 +304,10 @@ background-color: color:#2e282a;
             "c f i"
             "b e h";
     }
+    p {
+      max-width: 860px;
 
+    }
       .section1 {
         grid-area: a;
       }
