@@ -193,6 +193,7 @@ background-color: color:#2e282a;
         display: inline-flex;
         flex-direction: row;
         justify-content: space-between;
+        padding: none; 
     }
 
     #container {
