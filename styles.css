@@ -222,6 +222,7 @@ background-color: #2e282a;
         justify-content: space-between;
         padding: 0;
         margin: 10px;
+        margin-top: 30px;
         text-align: left;
     }
 
@@ -335,9 +336,9 @@ background-color: #2e282a;
             "b e h";
     }
     p {
-      max-width: 860px;
-
+      max-width: 915px;
     }
+
       .section1 {
         grid-area: a;
       }
