@@ -91,6 +91,7 @@ a:visited {
   margin-top: 1em;
   margin-bottom: 1em;
 	height: 0;
+  width: 90%;
 }
 .videoWrapper iframe {
 	position: absolute;
