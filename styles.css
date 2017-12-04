@@ -195,6 +195,10 @@ background-color: color:#2e282a;
         justify-content: center;
     }
 
+    #nav ul {
+      display: inline-flex;
+    }
+
     #container {
       width: 70%;
       margin: auto;
